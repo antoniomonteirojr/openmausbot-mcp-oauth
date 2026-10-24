@@ -1,0 +1,6 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/antoniomonteirojr/openmausbot-mcp-oauth@main/c1.json",
+  "client_uri": "https://openmausbot.app",
+  "redirect_uris": ["http://127.0.0.1:24386/mcp-oauth/callback"],
+  "client_name": "OpenMausBot"
+}
