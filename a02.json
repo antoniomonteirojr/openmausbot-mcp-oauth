@@ -1,0 +1,1 @@
+{"client_id":"https://cdn.jsdelivr.net/gh/antoniomonteirojr/openmausbot-mcp-oauth@main/a02.json","client_uri":"https://github.com/antoniomonteirojr/openmausbot-mcp-oauth","client_name":"OpenMausBot","redirect_uris":["https://example.com/cb"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none","scope":"busca:read"}
